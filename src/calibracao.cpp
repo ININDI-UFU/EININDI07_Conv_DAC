@@ -32,7 +32,7 @@ void loop()
     //                                                   0.001129241,         // a
     //                                                   0.0002341077,     // b
     //                                                   0.00000008775468);// c
-    Serial.print(">Temp Steinhart: ");                                   // IMPRIME O TEXTO NO MONITOR SERIAL
+    Serial.print(">Temp Steinhart: ");                             // IMPRIME O TEXTO NO MONITOR SERIAL
     Serial.println(V_BITS);                                        // IMPRIME NO MONITOR SERIAL A TEMPERATURA MEDIDA
   }
 }
